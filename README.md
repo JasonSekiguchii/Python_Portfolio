@@ -1,2 +1,3 @@
 # Python_Portfolio
-Python Certifications + Sample Code of Projects
+Python Certifications are located under the 'tag' 'Python_Certifications'.
+Project Code is located under the 'Main Branch'
