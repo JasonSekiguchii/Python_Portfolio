@@ -1,3 +1,3 @@
 # Python_Portfolio
-Python Certifications are located under the **'Python_Certifications'**, *tag*. <br>
-Project Code is located under the **'Main Branch'**
+Python *Certifications* are located under the **'Python_Certifications'**, *tag*. <br>
+Project *Code* is located under the **'Main Branch'**
